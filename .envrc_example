@@ -13,5 +13,5 @@ export POSTGRES_DB=
 export POSTGRES_USER=
 export POSTGRES_PASSWORD=
 
-# postgres 18.3 path
+# postgres 18.4 path
 export PATH=
